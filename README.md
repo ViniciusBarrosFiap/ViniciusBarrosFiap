@@ -2,8 +2,8 @@
 
 ## 📖 About me
 - 🔭 I'm currently working on full stack development and software engeneering
-- 🌱 I'm currently learning Java
-- 📫 How to reach me: guilherme.monteiro.espim@gmail.com
+- 🌱 learning a little every day
+- 📫 How to reach me: viniciusoliveiradebarros@hotmail.com
 
 ## 🚀 Stats
 <div style="display: flex; flex-wrap: wrap;">
