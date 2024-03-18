@@ -13,4 +13,4 @@
 
 ## 🖱️ Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,anaconda, aws, mongodb, nestjs, nextjs, nodejs, sklearn, react,sass,java,py,arduino,cpp,bootstrap,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,anaconda,aws,mongodb,nestjs, nextjs,nodejs,sklearn,react,sass,java,py,arduino,cpp,bootstrap,mysql,figma)](https://skillicons.dev)
